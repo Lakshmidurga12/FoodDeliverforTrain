@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "633802608718",
+    "firebase_url": "https://food-delivery-for-train-ab130-default-rtdb.firebaseio.com",
+    "project_id": "food-delivery-for-train-ab130",
+    "storage_bucket": "food-delivery-for-train-ab130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633802608718:android:82e96849a694a90732b31f",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliverfortrain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9P6UpZBv2vQ3yaTnjy7Mj-dg8OB7Pkxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633802608718:android:852652d30a674a0832b31f",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliveryfortrain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9P6UpZBv2vQ3yaTnjy7Mj-dg8OB7Pkxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
